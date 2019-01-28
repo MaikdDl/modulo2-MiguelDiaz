@@ -1,1 +1,4 @@
-# modulo2-MiguelDiaz
+# modulo2-javascript
+
+El modullo de javascript de hackabos
+vhvhvjhvjh
